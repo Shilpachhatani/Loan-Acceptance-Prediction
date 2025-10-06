@@ -167,5 +167,5 @@ Feel free to open an issue or submit a pull request with suggestions or improvem
 ## 📬 Contact
 For questions or collaboration:
 
-GitHub: `Shilpachhatani`
-Email: `shilpachhatani669@gmail.com`
+- GitHub: `Shilpachhatani`
+- Email: `shilpachhatani669@gmail.com`
