@@ -145,7 +145,7 @@ Successfully built a pipeline for loan acceptance prediction—from preprocessin
 
 ```bash
 # Clone the repository (replace URL with your actual GitHub repo)
-git clone https://github.com/your-username/Personal-Loan-Prediction.git
+git clone https://github.com/Shilpachhatani/Loan-Acceptance-Prediction.git
 
 # Navigate into the directory
 cd Personal-Loan-Prediction
@@ -167,5 +167,5 @@ Feel free to open an issue or submit a pull request with suggestions or improvem
 ## 📬 Contact
 For questions or collaboration:
 
-GitHub: `AhsanNFt`
-Email: `syedahsan0991@gmail.com`
+GitHub: `Shilpachhatani`
+Email: `shilpachhatani669@gmail.com`
